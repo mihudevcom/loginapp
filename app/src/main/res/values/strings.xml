@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Login App</string>
+
+    <string name="new_password">New password</string>
+    <string name="hello">Hello!</string>
+    <string name="log_out">Log Out</string>
+    <string name="change_password">Change Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="recover_password">Recover Password</string>
+    <string name="error_login_cancelled">Login cancelled</string>
+    <string name="error_sign_in_network">Sign in failed. Please check your network connection.</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_new_password_too_short">New password is too short</string>
+    <string name="password_changed_successfully">Password changed successfully</string>
+    <string name="error_password_change_cancelled">Change password cancelled.</string>
+    <string name="error_log_out_and_login">Please log out and log in again before being able to change the password.</string>
+    <string name="error_password_change_network">Password change failed. Please check your network connection.</string>
+    <string name="password_reset_success">A reset email has been sent to your email address. Please follow the instructions to reset your password</string>
+    <string name="error_rcover_password_cancelled">Recover password cancelled</string>
+    <string name="error_password_recover_network">Password recover failed. Please check your network connection.</string>
+    <string name="error_no_matching_account">No matching account found</string>
+    <string name="error_user_disabled">User account has been disabled</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_password_too_short">Password is too short</string>
+    <string name="error_sign_up_cacelled">Sign up cancelled</string>
+    <string name="error_sign_up_email_already_exists">A user with the same email already exists.</string>
+    <string name="error_sign_up_network">Sign up failed. Please check your network connection.</string>
+    <string name="loading_app">Loading App</string>
+    <string name="error_unknown">An error has occurred. Please try again later.</string>
+    <string name="ok">OK</string>
+</resources>

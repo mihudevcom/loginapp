@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_label_margin_top">16dp</dimen>
+    <dimen name="main_label_text_size">24sp</dimen>
+    <dimen name="password_text_margin_top">8dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="email_text_margin_top">8dp</dimen>
+    <dimen name="register_text_margin">8dp</dimen>
+    <dimen name="register_text_size">18sp</dimen>
+    <dimen name="recover_password_margin">8dp</dimen>
+    <dimen name="recover_password_text_size">18sp</dimen>
+</resources>
